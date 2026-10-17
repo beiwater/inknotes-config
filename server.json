@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "ready": false,
+  "endpoint": "",
+  "projectId": "",
+  "databaseId": "inknotes",
+  "tableId": "files",
+  "bucketId": "inknotes"
+}
