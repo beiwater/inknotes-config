@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "ready": false,
-  "endpoint": "",
-  "projectId": "",
+  "ready": true,
+  "endpoint": "https://ink.beiwater.org/v1",
+  "projectId": "6ad3fc3e0016dce99ddc",
   "databaseId": "inknotes",
   "tableId": "files",
   "bucketId": "inknotes"
